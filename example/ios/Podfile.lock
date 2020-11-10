@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - xh_navigation (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - xh_navigation (from `.symlinks/plugins/xh_navigation/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  xh_navigation:
+    :path: ".symlinks/plugins/xh_navigation/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  xh_navigation: 3977a6142f992f4f619960023da4560aa08dbdd0
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.0
